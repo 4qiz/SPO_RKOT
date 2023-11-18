@@ -1,33 +1,43 @@
-# СПО РКОТ
 
-#HAHATUN
+# WPF From Excel To DataBase
 
-Приложение для автоматизации экспорта данных из Excel файла в БД
+SPO RKOT software project for obtaining information from an Excel report into an MSSQL database. 
 
-## Функциональность
+Developed at the Hackathon in 3 days by order of the FGYP "GRCHZ"
 
-- Экспорт Excel Файлов в Базу Данных
-- Просмотр информации из Базы Данных в визуальном интерфейсе
-- Редактирование данных и сохранение в БД
 
-## Стек технологий
+## Team
 
-- .NET 6
+- [@4qiz](https://www.github.com/4qiz) (Me) - User Interface
+- [@SH4R1K](https://github.com/SH4R1K) - Team Leader👑, DataBase Module
+- [@Pluhenciya](https://github.com/Pluhenciya) - Excel Module
+- [@Meresk](https://github.com/meresk) - User Interface
+- [@Morokenec](https://github.com/Morokenec) - Manager
+
+
+## Stack
+
+- .NET 6 (Windows 7 support)
 - WPF
 - C#
 - MS SQL Server 2022
 - EFCore 7.0
-- GitHub
+- Microsoft.Office.Interop.Excel
+## Screenshots
 
-## Требования
+![Main Screen](/github_res/mainscreen.png?raw=true ".")
+![Second Screen Screen](/github_res/secondscreen.png?raw=true ".")
 
-- OС: не ниже Windows 7
-- .NET 6
 
-## Авторы
+## Installation
 
-- Попов Глеб [GitHub: SH4R1K](https://github.com/SH4R1K)
-- Пономарёв Иван [GitHub: Pluhenciya](https://github.com/Pluhenciya)
-- Хватов Яков [GitHub: Meresk1](https://github.com/meresk1)
-- Дмитрий Ушаков [GitHub: Morokenec](https://github.com/Morokenec)
-- Антипин Егор [GitHub: 4qiz](https://github.com/4qiz)
+1 Create MSSQL DataBase using script in createDatabase.sql 
+
+2 Install ZIP from Release
+
+3 Run SPO_RKOT_UI.exe (Make sure you have .NET 6)
+
+4 You can change connection string to database in setting (but everything should work by default)
+
+
+    
