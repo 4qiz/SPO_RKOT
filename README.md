@@ -3,9 +3,6 @@
 
 SPO RKOT software project for obtaining information from an Excel report into an MSSQL database. 
 
-Developed at the Hackathon in 3 days by order of the FGYP "GRCHZ"
-
-
 ## Team
 
 - [@4qiz](https://www.github.com/4qiz) (Me) - User Interface
@@ -39,5 +36,10 @@ Developed at the Hackathon in 3 days by order of the FGYP "GRCHZ"
 
 4 You can change connection string to database in setting (but everything should work by default)
 
+## Дополнительная информация
+Приложение разработано за 3 дня в рамках Всероссийского хакатона связи.
 
+Заказчик: ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГЛАВНЫЙ РАДИОЧАСТОТНЫЙ ЦЕНТР
+
+В результате проект занял 2 место.
     
